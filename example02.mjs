@@ -11,3 +11,5 @@ const stdout = process.stdout
     .on("data", msg => console.log("Saida terminal: ", msg.toString()));
 
 stdin.pipe(stdout);
+
+// próximo: example03.mjs
