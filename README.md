@@ -1,5 +1,5 @@
-# :inbox_tray: nodejs-streams
-Abordagem prática e inicial do que são as node.js stream
+<h1 align="center"> :inbox_tray: Node Streams </h1>
+Abordagem prática e inicial do que são as node.js streams. Entendeno Readable, Writable streams, Pipe / Pipeline, Transform etc. Tudo isso por meio de um vídeo do <a href="https://youtu.be/pB5-QzabL2I">Erick Wendel</a>
 
 ## :link: Links de apoio
 
